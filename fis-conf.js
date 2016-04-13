@@ -9,6 +9,6 @@ fis.match('*.md',{
 
 fis.match('**/*.css', {
 	optimizer: fis.plugin('clean-css'),
-    packTo: '/quick-layout.min.css'
+    packTo: '/q-layout.min.css'
 })
 

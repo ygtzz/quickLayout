@@ -171,7 +171,12 @@ a:hover { text-decoration: underline; }
 .mt10 { margin-top: 10px; }
 .mt15 { margin-top: 15px; }
 .mt20 { margin-top: 20px; }
+.mt25 { margin-top: 25px; }
 .mt30 { margin-top: 30px; }
+.mt35 { margin-top: 35px; }
+.mt40 { margin-top: 40px; }
+.mt45 { margin-top: 45px; }
+.mt50 { margin-top: 50px; }
 .mb1 { margin-bottom: 1px; }
 .mb2 { margin-bottom: 2px; }
 .mb5 { margin-bottom: 5px; }
@@ -268,6 +273,7 @@ a:hover { text-decoration: underline; }
 .f20 { font-size: 20px; }
 .f24 { font-size: 24px; }
 .f30 { font-size: 30px; }
+.f40 { font-size: 40px; }
 .f50 { font-size: 50px; }
 /* font-family */
 .fa { font-family: Arial; }

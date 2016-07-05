@@ -105,9 +105,15 @@ a:hover { text-decoration: underline; }
 .h24 { height: 24px; }
 /* width */
 /* fixed width value */
+.w10 { width: 10px; }
 .w20 { width: 20px; }
+.w30 { width: 30px; }
+.w40 { width: 40px; }
 .w50 { width: 50px; }
+.w60 { width: 60px; }
 .w70 { width: 70px; }
+.w80 { width: 80px; }
+.w90 { width: 90px; }
 .w100 { width: 100px; }
 .w120 { width: 120px; }
 .w140 { width: 140px; }
@@ -249,6 +255,26 @@ a:hover { text-decoration: underline; }
 .pt30 { padding-top: 30px; }
 .pr30 { padding-right: 30px; }
 .pb30 { padding-bottom: 30px; }
+.p35 { padding: 35px; }
+.pl35 { padding-left: 35px; }
+.pt35 { padding-top: 35px; }
+.pr35 { padding-right: 35px; }
+.pb35 { padding-bottom: 35px; }
+.p40 { padding: 40px; }
+.pl40 { padding-left: 40px; }
+.pt40 { padding-top: 40px; }
+.pr40 { padding-right: 40px; }
+.pb40 { padding-bottom: 40px; }
+.p45 { padding: 45px; }
+.pl45 { padding-left: 45px; }
+.pt45 { padding-top: 45px; }
+.pr45 { padding-right: 45px; }
+.pb45 { padding-bottom: 45px; }
+.p50 { padding: 50px; }
+.pl50 { padding-left: 50px; }
+.pt50 { padding-top: 50px; }
+.pr50 { padding-right: 50px; }
+.pb50 { padding-bottom: 50px; }
 /* border-color name rule:  border(b)-position(l/r/t/b/d)-width(null/2)-style(null/sh)-color(first one letter/first two letter) |-> All colors are safe color*/
 .bdc { border: 1px solid #ccc; }
 .blc { border-left: 1px solid #ccc; }

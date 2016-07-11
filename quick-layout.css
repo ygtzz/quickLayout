@@ -250,6 +250,11 @@ a:hover { text-decoration: underline; }
 .pt20 { padding-top: 20px; }
 .pr20 { padding-right: 20px; }
 .pb20 { padding-bottom: 20px; }
+.p25 { padding: 25px; }
+.pl25 { padding-left: 25px; }
+.pt25 { padding-top: 25px; }
+.pr25 { padding-right: 25px; }
+.pb25 { padding-bottom: 25px; }
 .p30 { padding: 30px; }
 .pl30 { padding-left: 30px; }
 .pt30 { padding-top: 30px; }

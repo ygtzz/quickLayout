@@ -1,0 +1,36 @@
+/*! 
+* reset.css 
+*/
+/*出自张鑫旭-我是如何对网站CSS进行架构的*/
+body{
+    font-family:arial;
+    font-size: 12px;
+}
+input,textarea,select{
+    font-size:100%;    
+    font-family:inherit;
+}
+body,h1,h2,h3,h4,h5,h6,p,ul,ol,form{
+    margin:0;
+}
+h4,h5,h6{
+    font-size:1em;
+}
+ul,ol{
+    padding-left:0; 
+    list-style-type:none;
+}
+img{border:0;}
+/*清除外轮廓*/
+:active,:focus{outline:0;}
+/*bootstrap清除按钮outline*/
+.btn.active.focus, .btn.active:focus,.btn.focus, .btn:active.focus,.btn:active:focus, .btn:focus {
+    outline:0;
+}
+a:link, a:visited, a:hover, a:active {
+    color: #ff510d;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}

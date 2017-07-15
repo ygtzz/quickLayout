@@ -1,0 +1,32 @@
+{
+  "name": "quicklayout",
+  "version": "1.0.0",
+  "description": "运行命令 fis3 release -d ./output 生成合成文件",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ygtzz/quickLayout.git"
+  },
+  "keywords": [
+    "css",
+    "layout"
+  ],
+  "author": "ygtzz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ygtzz/quickLayout/issues"
+  },
+  "homepage": "https://github.com/ygtzz/quickLayout#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.7.0",
+    "gulp-concat": "^2.6.1"
+  }
+}
